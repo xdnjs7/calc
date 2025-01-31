@@ -2,6 +2,5 @@
 
 ## API
 
-- add(a,b)
-- subtract(a,b)
-- testing
+- `add(a,b)`
+- `subtract(a,b)`
