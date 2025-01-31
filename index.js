@@ -40,5 +40,3 @@ function testSub()
     console.log (subtract(2,1)===1);
 
 }
-
-asdfasdf
