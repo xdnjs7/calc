@@ -40,3 +40,13 @@ function testSub()
     console.log (subtract(2,1)===1);
 
 }
+
+function testMul()
+{
+  console.log(mul(2,3)===6);
+}
+
+function testDiv()
+{
+  console.log(div(6,3)===2);
+}
