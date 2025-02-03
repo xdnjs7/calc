@@ -20,7 +20,7 @@ function multiply(a, b){
 }
 
 function divide(a,b){
-
+ 
 
   return a/b;
 }
@@ -48,5 +48,5 @@ function testMul()
 
 function testDiv()
 {
-  console.log(div(6,3)===2);
+  console.log(div(6,2)===3);
 }
